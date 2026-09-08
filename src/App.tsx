@@ -73,11 +73,11 @@ const projects: Project[] = [
     status: "dev",
   },
   {
-    title: "Lanka Shop",
-    description: "ලගදීම බලාපොරොත්තු වන්න",
+    title: "Blank",
+    description: "ංවර්ධනය කරමින් පවතී",
     icon: ShoppingBag,
     color: "from-rose-500 to-pink-500",
-    href: "https://lanka-shop.netlify.app/",
+    href: ".........",
     status: "dev",
   },
   {
