@@ -26,7 +26,7 @@ type Project = {
 const projects: Project[] = [
   {
     title: "Cheque Deposit",
-    description: "බැංකු චෙක්පත් තැන්පතු පද්ධතිය",
+    description: "බැංකු චෙක්පත් තැන්පතු පත්‍රිකාව",
     icon: CreditCard,
     color: "from-sky-500 to-cyan-400",
     href: "https://cheque-deposit.netlify.app",
@@ -65,6 +65,14 @@ const projects: Project[] = [
     status: "live",
   },
   {
+    title: "Salary Calculator",
+    description: "වැටුප් ගණනය කිරීම්",
+    icon: Calculator,
+    color: "from-emerald-500 to-green-500",
+    href: "https://udaya-salry-cal.netlify.app",
+    status: "live",
+  },
+  {
     title: "HealthTrack",
     description: "මගේ වෛද්‍ය වාර්තා - සංවර්ධනය කරමින් පවතී",
     icon: Stethoscope,
@@ -78,15 +86,7 @@ const projects: Project[] = [
     icon: ShoppingBag,
     color: "from-rose-500 to-pink-500",
     href: ".........",
-    status: "dev",
-  },
-  {
-    title: "Salary Calculator",
-    description: "වැටුප් ගණනය කිරීම්",
-    icon: Calculator,
-    color: "from-emerald-500 to-green-500",
-    href: "https://udaya-salry-cal.netlify.app",
-    status: "live",
+    status: "dev"
   },
 ];
 
